@@ -1,0 +1,27 @@
+@media screen and (max-width: 720px) {
+    .sub-topics-container {
+        /* margin-top: 10%; */
+    }
+
+}
+
+@media screen and (max-width: 683px) {
+
+
+    .page-title {
+        display: flex;
+    }
+
+}
+
+@media screen and (max-width:672px) {
+    .page-wrapper {
+        max-height: 75vh;
+    }
+
+    .page-wrapper main#mainContainer {
+        margin: 0;
+        margin-left: 4%;
+        padding-bottom: 5%;
+    }
+}
