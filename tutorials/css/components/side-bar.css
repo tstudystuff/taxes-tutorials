@@ -38,3 +38,10 @@ main>.side-bar {
 .side-bar-links-container>ul code {
     display: inline;
 }
+
+#sideBarBtn {
+    position: absolute;
+    z-index: 9999;
+    top: 2%;
+    left: 5%;
+}

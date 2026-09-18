@@ -44,12 +44,7 @@ body {
     top: 10%;
 }
 
-#sideBarBtn {
-    position: absolute;
-    z-index: 9999;
-    top: 5%;
-    left: 5%;
-}
+
 
 .inject-content-btns-container {
     position: fixed;
