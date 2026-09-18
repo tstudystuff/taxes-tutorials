@@ -22,18 +22,10 @@ body {
     position: sticky;
     top: 10vh;
     align-self: flex-start;
-
     /* ADD THIS */
     z-index: 9998;
 }
 
-
-.side-bar-links-container {}
-
-.side-bar-links-container ul {
-    /* position: fixed; */
-    /* top: 0; */
-}
 
 .page-wrapper>nav.nav-lesson-title {
     position: fixed;
